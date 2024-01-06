@@ -6,6 +6,7 @@ Hi.
 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Resume-FFFFFF?style=flat-square&logo=Notion&logoColor=000000"/></a>
 </div>
 
+# SKILLS
 <!-- Skills -->
 <div>
 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=FFFFFF"/></a>
