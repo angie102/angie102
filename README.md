@@ -16,7 +16,7 @@
 ## **Tech Stack**
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=Java&logoColor=FFA518)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=FFFFFF)&nbsp;
-![Spring](https://img.shields.io/badge/Spring%20Framework-000000.svg?style=plastic&logo=spring&logoColor=236DB33F)&nbsp;\
+![Spring](https://img.shields.io/badge/Spring%20Framework-000000.svg?style=flat-square&logo=spring&logoColor=236DB33F)&nbsp;\
 ![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=C&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)&nbsp;\
