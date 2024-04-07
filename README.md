@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **angiekim1111@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://lightning-rhythm-fb3.notion.site/0274f223fba04000ab00684147064f94?pvs=4)❤️
+- 📄 Know about my experiences [Here](https://lightning-rhythm-fb3.notion.site/0274f223fba04000ab00684147064f94?pvs=4)❤️
   
 - ⚡ Fun fact **My major was fine art✨**
 
