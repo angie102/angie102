@@ -4,7 +4,7 @@
 
 ## **About me**
 
-- 😆 I’m currently interested in **Flask, Python.**
+- 😆 I’m currently interested in **Python.**
 
 - 📫 How to reach me **angiekim1111@gmail.com**
 
